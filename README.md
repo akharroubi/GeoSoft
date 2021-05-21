@@ -1,2 +1,2 @@
 # GeoSoft
-A repository for geospatial software
+A repository for geospatial/geographic software
